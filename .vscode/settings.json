@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "locale.h": "c",
+        "stdlib.h": "c",
+        "READM.C": "cpp",
+        "README.C": "cpp"
+    }
+}
